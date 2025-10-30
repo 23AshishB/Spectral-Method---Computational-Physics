@@ -1,2 +1,3 @@
 # Spectral-Method---Computational-Physics
-Method to solve wave equation
+Method to solve wave equation efficiently
+
