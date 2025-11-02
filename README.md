@@ -1,3 +1,3 @@
-# Spectral-Method---Computational-Physics
-Method to solve wave equation efficiently
+# Spectral Method | EP4210 (Computational Physics)
 
+Method to solve wave equation efficiently.
